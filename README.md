@@ -1,6 +1,6 @@
 # carousel-task
 
-## Live Demo: [carousel-task]https://289volts.github.io/carousel-task/
+## Live Demo: https://289volts.github.io/carousel-task/
 
 ## REQUIREMENTS
 
